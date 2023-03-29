@@ -6,5 +6,5 @@ The tutorial also covered topics such as:
 <ul>
   <li>Rendering strategies, such as Client-Side Rendering (CSR), Incremental Static Regeneration (ISR), Static Site Generation (SSG), and Server-Side Rendering (SSR).</li>
   <li>Fetching data at request time vs build time</li>
-  <li>SEO: Static Crawling, Indexing, Rendering, Ranking, Sitemaps and Canonical tags</li>
+  <li>SEO: Static Crawling, Indexing, Rendering, Ranking, Sitemaps, Canonical tags and Core Web Vitals</li>
 </ul>
